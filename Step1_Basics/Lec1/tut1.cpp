@@ -1,4 +1,4 @@
-// ** Search Query Auto Complete
+// ** Search Query Auto Complete System **
 
 class AutoCompleteSystem
 {

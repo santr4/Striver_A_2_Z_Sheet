@@ -1,4 +1,4 @@
-// ** Data Type
+// ** Data Type Size **
 
 class Solution
 {
