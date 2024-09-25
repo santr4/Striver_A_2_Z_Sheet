@@ -14,7 +14,7 @@ int qs(vector<int> &v, int l, int h)
         {
             i++;
         }
-        while (v[j] > pivot && j >= l + 1)
+        while (v[j] >= pivot && j >= l + 1)
         {
             j--;
         }
